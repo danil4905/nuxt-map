@@ -1,0 +1,21 @@
+version: '3'
+services:
+  db:
+    build:
+      context: ./develop/postgres/
+      dockerfile: Dockerfile
+    restart: always
+    container_name: mapclea_db
+    environment:
+      POSTGRES_PASSWORD: $PG_PASSWORD
+      POSTGRES_DB: $PG_DB
+      POSTGRES_USER: $PG_USER
+    ports:
+      - "${PG_EXTERNAL_PORT}"
+    volumes:
+      - $PG_DATA_VOLUMES
+
+volumes:
+  database:
+    driver: local
+

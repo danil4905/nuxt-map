@@ -1,0 +1,368 @@
+[
+  {
+    "QuestionId": 1,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 4,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 5,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 6,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 7,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 9,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 11,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 12,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 13,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 16,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 18,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 19,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 20,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 21,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 24,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 26,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 27,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 28,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 29,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 30,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 34,
+    "CityId": 1,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 2,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 4,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 5,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 8,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 10,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 11,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 12,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 14,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 16,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 19,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 20,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 22,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 25,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 26,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 27,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 31,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 34,
+    "CityId": 2,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 1,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 4,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 5,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 8,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 11,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 12,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 15,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 16,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 20,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 23,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 25,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 26,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 27,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 32,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 34,
+    "CityId": 3,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 3,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 4,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 11,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 16,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 20,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 27,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 33,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "QuestionId": 34,
+    "CityId": 4,
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  }
+]

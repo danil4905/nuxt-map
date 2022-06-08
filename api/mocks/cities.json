@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Izhevsk",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "id": 2,
+    "name": "Kirov",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "id": 3,
+    "name": "Saint Petersburg",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "id": 4,
+    "name": "Kazan",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "id": 5,
+    "name": "Moscow",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  }
+]

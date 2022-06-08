@@ -1,0 +1,3330 @@
+[
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(322.5 60)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(572.5 63.599999999999994)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(230 60)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(760 48.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(851.25 50)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(945 50.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1013.75 50.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1022.25 72)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1022 100)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1020 136)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1010 190)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(930 191.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1017.5 241.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1055 378.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(857.5 402.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(888.75 442.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(957.5 443.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1015 444.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1063.75 446.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1034.75 490)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1030.5 535.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1052.5 589.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(991.25 586)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(923.75 584.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(863.75 586)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(20 60)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(86.25 60)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(152.5 58)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(15 102)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(91.25 103.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(153.75 108)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(15 166.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(87.5 166.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(155 169.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(17.5 249.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(86.25 252)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(162.5 249.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(221.25 258)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(297.5 250.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(356.25 250.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(13.75 296.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(83.75 303.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(161.25 300)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(230 301.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(302.5 295.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(356.25 304.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(355 350.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(295 346.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(227.5 349.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(357.5 392.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(270 397.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(122.5 398.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(65 398.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(12.5 390)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(26.25 516)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(20 574.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(940 255)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(10202 270)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1020 300.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(980 372)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(938 358.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(860 180)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(87.5 574.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(157.5 574.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(225 574.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(292.5 574.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(356.25 574.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(85 516)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(155 514.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(223.75 513.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(292.5 512.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(356.25 512.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 6,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(795 572.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(95 54)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(23.75 56.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(23.75 178.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(235 55.199999999999996)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(346.25 46.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(241.25 104.39999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(301.25 104.39999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(370 104.39999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(245 176.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(300 177.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(363.75 175.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(540 68.39999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(727.5 62.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(882.5 60)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(901.25 92.39999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1031.25 102)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1015 248.39999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1011.25 340.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1098.75 440.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1033.75 445.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1042.5 589.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(970 590.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(888.75 534)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(241.25 336)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(295 338.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(362.5 342)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(232.5 387.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(290 391.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(362.5 387.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(240 475.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(298.75 480)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(361.25 483.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(238.75 537.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(300 543.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(358.75 543.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(92.5 322.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(163.75 324)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(85 386.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(156.25 391.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(82.5 445.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(161.25 440.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(25 522)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(90 522)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(152.5 519.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(28.75 571.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(96.25 567.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(153.75 566.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1086.25 590.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(143.75 61.199999999999996)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(26.25 117.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(246.25 582)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1098.75 488.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1027.5 488.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 4,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(97.5 177.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(278.75 564)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(663.75 72)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(816.25 40.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(890 39.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(948.25 38.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1008 34.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1058 49.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1060.75 111.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1000.5 112.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(926.25 106.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(876.25 103.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1010 168)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(944.5 162)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(878.75 162)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(955 260.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(870 378.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(940 378.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1007.5 373.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1065 372.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(375 565.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(326.25 565.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(46.25 538.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(158.75 537.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(276.25 504)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(12.5 56.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(92.5 45.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(168.75 36.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(176.25 117.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(243.75 61.199999999999996)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(346.25 56.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(18.75 92)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(92.5 86)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(175 78)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(17.5 128.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(96.25 120)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(265 405.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(183.75 237.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(277.5 234)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(270 285.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(96.25 241.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(18.75 242.39999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(18.75 298.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(21.25 357.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(21.25 411.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(97.5 294)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(100 351.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(100 412.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(326.25 502.79999999999995)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(178.75 352.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(180 409.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(381.25 500.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(182.5 288)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(267.5 350.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1047.5 265.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1066 169.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(567.5 81.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 7,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(567.5 56.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(517.5 60.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(552.5 86.39999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(733.75 60)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(837.5 51.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(896.25 49.199999999999996)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(970.25 60)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1037.5 49.199999999999996)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1093.75 51.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(992.5 105.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1050.75 108)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1072 197.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1030.25 194)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(973.75 192.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(925 194)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(919.75 231.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(956.25 262.39999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1006 263.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1025.5 270.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1030  340)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1128.75 306.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1030 306.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1130.5 383.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1073.75 382.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1016.25 384.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(961.25 379.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(918.5 380.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(920.25 437.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1000 437.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1047.5 436.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(998.75 415.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1127.5 441.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1126.25 522)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1032.5 532.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1000 518)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(928.75 522)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(793.75 606)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(860 606)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(932.75 606)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1005 606)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(1050.5 609.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(26.25 54.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(81.25 56.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(133.75 55.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(187.5 56.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(245 54.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(298.75 52)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(356.25 54.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(18.75 198)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(373.75 201.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(146.25 201.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(203.75 204)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(260 201.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(318.75 201.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(373.75 157.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(17.5 159.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(160 156)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(218.75 156)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(268.75 158.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(322.5 159.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(648.75 593.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(343.75 500.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(336.25 541.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(347.5 584.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(291.25 498)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(295 536.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(296.25 585.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(236.25 499.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(238.75 540)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(236.25 589.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(16.25 272.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(13.75 316.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(12.5 367.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(13.75 416.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(71.25 276)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(75 316.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(66.25 369.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(71.25 416.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(130 273.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(130 315.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(131.25 364.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(127.5 414)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(186.25 271.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(185 316.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(181.25 368.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(182.5 411.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(281.25 270)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(341.25 273.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(283.75 313.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(285 361.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 8,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(13.75 591.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(396.25 553.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(507.5 492)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(460 492)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(312.5 550.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(222.5 250.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(461.25 550.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(318.75 447.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(406.25 490.79999999999995)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(262.5 489.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(266.25 548.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(316.25 489.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(513.75 552)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(360 492)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(776.25 550.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(825 558)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(907.5 505.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(20 151.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(145 72)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(117.5 255.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(28.75 249.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(222.5 213.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(276.25 214.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(782.5 352.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(281.25 253.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(30 538.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(26.25 440.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(116.25 440.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 1,
+    "userId": null,
+    "coords": "translate(23.75 354)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(55 318)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(117.5 321.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(182.5 320.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(243.75 319.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(163.75 75.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(217.5 78)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(71.25 133.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(162.5 128.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(207.5 139.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(73.75 188.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(160 172.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(206.25 181.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(27.5 224.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(62.5 240)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(26.25 372)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(80 373.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(136.25 374.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(197.5 372)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(255 370.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(22.5 504)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(80 507.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(148.75 507.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(215 510)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(42.5 471.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(106.25 472.79999999999995)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(233.75 469.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(26.25 552)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(71.25 556.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(126.25 558)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(176.25 559.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(235 559.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(13.75 618)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(57.5 666)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(135 621.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(13.75 662.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(70 690.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(126.25 664.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(153.75 637.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(240 673.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(146.25 700)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(362.5 655.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(358.75 700.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(453.75 676.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(568.75 618.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(611.25 482.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(666.25 480)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(525 393.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(553.75 400.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(527.5 422.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(567.5 429.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(642.5 385.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(725 489.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(790 379.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(790 334.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(730 280.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(730.25 337.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(858.75 279.59999999999997)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(790 276)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(60 624)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(170 212.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(303.75 466.79999999999995)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(280 510)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(228.75 643.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(850 230.39999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(790 230.39999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(726.25 388.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(722.5 445.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(38.75 180)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(636.25 427.2)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 2,
+    "cityId": 2,
+    "userId": null,
+    "coords": "translate(188.75 460.79999999999995)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(625 920.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(625 811.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(546.25 921.5999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(545 813.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(405 921.5999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(403.75 814.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(402.5 756)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(286.25 922.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(286.25 817.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(286.25 721.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(286.25 621.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(136.25 925.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(46.25 925.1999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(45 824.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(43.75 723.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(43.75 622.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(42.5 525.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(135 620.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(705 46.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(705 140.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(705 236.39999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(802.5 46.8)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(800 142.79999999999998)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(797.75 237.6)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(351.25 86.39999999999999)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(181.25 260.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(330 260.4)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 3,
+    "userId": null,
+    "coords": "translate(401.25 660)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(181.25 250)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(181.25 420)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(320.25 240)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(320.25 420)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(441.25 420)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(441.25 240)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(601.25 420)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(441.25 100)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(901.25 110)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(771.25 300)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(861.25 300)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(950.25 300)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(1030.25 300)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(771.25 450)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(861.25 450)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  },
+  {
+    "floor": 3,
+    "cityId": 4,
+    "userId": null,
+    "coords": "translate(1030.25 450)",
+    "createdAt": "2022-02-21T13:40:10.429Z",
+    "updatedAt": "2022-02-21T13:40:10.429Z"
+  }
+]
